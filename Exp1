@@ -1,0 +1,19 @@
+ankitsharma@Ankits-MacBook-Pro ~ % ls 
+DBMS Lab Manual - MCA (1) (1).docx	Movies
+Desktop					Music
+Documents				Pictures
+Downloads				Podcast Starting Info.docx
+Kali Linux SS.docx			Public
+Library					VirtualBox VMs
+ankitsharma@Ankits-MacBook-Pro ~ % mkdir
+usage: mkdir [-pv] [-m mode] directory_name ...
+ankitsharma@Ankits-MacBook-Pro ~ % mkdir OS_Ankuuu
+ankitsharma@Ankits-MacBook-Pro ~ % ls
+DBMS Lab Manual - MCA (1) (1).docx	Music
+Desktop					OS_Ankuuu
+Documents				Pictures
+Downloads				Podcast Starting Info.docx
+Kali Linux SS.docx			Public
+Library					VirtualBox VMs
+Movies
+ankitsharma@Ankits-MacBook-Pro ~ % cd OS_Ankuuu 
