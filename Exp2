@@ -1,0 +1,62 @@
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % nano factorial.sh
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % nano factorial.sh
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % nano factorial.sh
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % factorial.sh
+zsh: command not found: factorial.sh
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % chmod +x factorial.sh
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % ./factorial.sh
+Enter the number:
+5
+120
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % echo Babbu Maan      
+Babbu Maan
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % echo Hello World
+Hello World
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % nano gross_SAL.sh
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % chmod +x gross_SAL.sh
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % ./gross_SAL.sh
+enter the basic salary:
+50000
+The gross salary : 80000.00000000000000000000
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % nano Menu.sh
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % chmod +x Menu.sh
+ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % ./Menu.sh
+Menu:
+1) List of files
+2) Process Status
+3) Date
+4) Users in system
+5) Quit
+Enter your choice: 1
+total 24
+-rwxr-xr-x  1 ankitsharma  staff  432 Feb  3 15:34 Menu.sh
+-rwxr-xr-x  1 ankitsharma  staff  508 Feb  3 14:43 factorial.sh
+-rwxr-xr-x  1 ankitsharma  staff  157 Feb  3 15:31 gross_SAL.sh
+
+Menu:
+1) List of files
+2) Process Status
+3) Date
+4) Users in system
+5) Quit
+Enter your choice: 3
+Mon Feb  3 15:35:10 IST 2025
+
+Menu:
+1) List of files
+2) Process Status
+3) Date
+4) Users in system
+5) Quit
+Enter your choice: 4
+ankitsharma      console      Jan 29 13:14 
+ankitsharma      ttys000      Feb  3 14:35 
+
+Menu:
+1) List of files
+2) Process Status
+3) Date
+4) Users in system
+5) Quit
+Enter your choice: 5
+Exiting...
