@@ -8,8 +8,6 @@ ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % ./factorial.sh
 Enter the number:
 5
 120
-ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % echo Babbu Maan      
-Babbu Maan
 ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % echo Hello World
 Hello World
 ankitsharma@Ankits-MacBook-Pro OS_Ankuuu % nano gross_SAL.sh
